@@ -6,4 +6,4 @@ git commit -a -m: permet rajouté tous les fichiers se trouvant déjà dans l'in
 git checkout id_commit(sha): permet de se positionner sur un commit specifié(pour revenir à au commit le plus recent on utilise git checkout "master")
 git commit --amend -m "Votre nouveau message": permet de modifier le message du dernier commit s'il n'est pas pushé 
 git reset --hard‌:permet d'annuler une modification non commité
-
+git pull: permet de récupérer une modification faite depuis un autre ordinateur ou un remote
