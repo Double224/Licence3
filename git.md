@@ -14,4 +14,5 @@ git show "SHA(id_commit)": permet de voir exactement le contenu d'un commit
 .gitignore : permet d'ignorer des fichiers 
 git stash : permet de mettre un travail en attente pour y revenir après
 git stash pop: permet de récuperer un travail mis en attente
+Pour participer à un projet open source, il faut forker et le cloner sur son machine local
 
