@@ -12,3 +12,4 @@ git merge "nom de la branche" : permet de fusionner la branche courante à celle
 git blame : permet de voir plus rapidement qui a fait un commit et à quel niveau et pourquoi
 git show "SHA(id_commit)": permet de voir exactement le contenu d'un commit
 .gitignore : permet d'ignorer des fichiers 
+git stash : permet de mettre un travail en attente pour y revenir après
