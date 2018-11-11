@@ -9,4 +9,5 @@ git reset --hard‌:permet d'annuler une modification non commité
 git pull: permet de récupérer une modification faite depuis un autre ordinateur ou un remote
 git branch "nom de la branche" : permet de créer une branchhe
 git merge "nom de la branche" : permet de fusionner la branche courante à celle indiqué sur la ligne de commande;
-La resolution des conflits très simple
+
+git stash pop: permet de récuperer un travail mis en attente
